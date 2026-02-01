@@ -8,5 +8,5 @@
   </blockquote>
 </details>
 
-<img align='center' width='240px' src='tumblr_inline_nl5nohPphc1sptc1c540.gif'/>
+<img align='right' width='240px' src='tumblr_inline_nl5nohPphc1sptc1c540.gif'/>
 
