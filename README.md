@@ -1,4 +1,17 @@
-## Hi there 👋
+<h1 align="center">yukimi ☾</h1>
+<p align="center">backend soul in a digital world</p>
+
+<img align="right" width="270" src="ССЫЛКА_НА_КАРТИНКУ" />
+
+---
+
+## 🖤 About Me
+
+```diff
++ Name: Yukimi
++ Role: Developer
++ Vibe: Calm but deadly with code
+
 
 <!--
 **yuk1mi-san/yuk1mi-san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
