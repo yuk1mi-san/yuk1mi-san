@@ -1,7 +1,7 @@
 <h1 align="center">yukimi ☾</h1>
 <p align="center">backend soul in a digital world</p>
 
-<img align="right" width="270" src="last ned (9).jfif" />
+<img align="right" width="270" src="say-something-nice-about-kaíne-v0-bbvh04awqryb1.webp" />
 
 ---
 
