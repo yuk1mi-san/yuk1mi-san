@@ -1,7 +1,7 @@
 <h1 align="center">yukimi ☾</h1>
 <p align="center">backend soul in a digital world</p>
 
-<img align="right" width="270" src="ССЫЛКА_НА_КАРТИНКУ" />
+<img align="right" width="270" src="last ned (9).jfif" />
 
 ---
 
