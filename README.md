@@ -1,5 +1,5 @@
 ## Privet
-<img align='right' width='240px' src='__kaine_nier_and_1_more_drawn_by_rampu__sample-3804f110f78c09a7774748f40b465351.jpg'/>
+<img align='right' width='240px' src='tumblr_inline_nl5nohPphc1sptc1c540.gif'/>
 
 <details>
   <summary> 📫 ℍ𝕠𝕨 𝕥𝕠 𝕣𝕖𝕒𝕔𝕙 𝕞𝕖 </summary>
