@@ -1,5 +1,5 @@
 ## Privet
-<img align='right' width='240px' src='tumblr_inline_nl5nohPphc1sptc1c540.gif'/>
+<img align='left' width='240px' src='tumblr_inline_nl5nohPphc1sptc1c540.gif'/>
 
 <details>
   <summary> 📫 ℍ𝕠𝕨 𝕥𝕠 𝕣𝕖𝕒𝕔𝕙 𝕞𝕖 </summary>
